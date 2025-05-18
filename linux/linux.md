@@ -1,3 +1,5 @@
+<img src="linux101.png" alt="Alt Text" width="300"/>
+
 # Operating System (OS)
 
 The operating system is the most crucial software on a computer. It acts as an intermediary between the user and the computer hardware. Its primary goal is to provide an environment where a user can execute programs conveniently and efficiently.
